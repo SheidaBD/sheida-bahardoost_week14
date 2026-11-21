@@ -1,0 +1,28 @@
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 12px 16px;
+    background-color: #e2e8f0;
+    border-radius: 8px;
+
+  }
+.item  p{
+color: #3F2E3E;
+
+}
+  
+.item button{
+  width: 35px;
+  height: 35px;
+  background-color: #3F2E3E;
+  bottom: none;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 10px;
+
+}
+
+

@@ -1,0 +1,26 @@
+.container {
+
+    background     : rgba(0, 0, 0, 0.4);
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+    width          : 100%;
+
+}
+
+.alert {
+    background     : #3F2E3E;
+    padding        : 20px;
+    border-radius  : 8px;
+    display        : flex;
+    justify-content: space-between;
+    gap            : 12px;
+    width          : 100%;
+}
+
+.alert button {
+    flex      : 1;
+    box-shadow: #3F2E3E 0px 7px 29px 0px;
+
+
+}
